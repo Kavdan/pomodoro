@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>beep-07a.wav</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>beep-09.wav</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/pomodoro.ico</file>
+    </qresource>
+
+</RCC>
+
+

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Pomodoro Timer
+Exec=/opt/pomodoro/bin/pomodoro
+Icon=pomodoro
+Type=Application
+Categories=Utility;
